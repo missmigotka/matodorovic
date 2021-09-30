@@ -1,0 +1,23 @@
+body
+{
+    background-color: bisque;
+    
+}
+
+h1 
+{
+    color: darkblue;
+}
+
+.completed
+{
+    text-decoration: line-through;
+    color:gray;
+}
+
+.trashcan 
+{
+    font-size: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
